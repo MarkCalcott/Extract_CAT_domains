@@ -1,0 +1,1 @@
+The script extractCATdomains_consensus.py will extract C-A-T domains from gbk in a specific folder. Example input data is given in the folders Bacillus, Pseudomonas and Streptomyces.
